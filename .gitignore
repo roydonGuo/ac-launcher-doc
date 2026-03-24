@@ -3,3 +3,5 @@ docs/.vuepress/.temp
 docs/.vitepress/dist
 docs/.vitepress/cache
 node_modules/
+.idea
+.gitignore

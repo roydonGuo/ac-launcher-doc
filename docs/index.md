@@ -1,25 +1,29 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
-  name: "VitePressDemo"
-  text: "VitePressDemo Description"
-  tagline: My great project tagline
+  name: 口腔观察仪智慧版文档
+  text: 彩虹🌈软糖
+  tagline: 逆水行舟，不进则退
+  image:
+    src: /cherry.png
+    alt: Cherry
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: come on
+      link: /articles/组件库环境搭建
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: View on Github
+      link: https://github.com/roydonGuo
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: 🛠️
+    title: Another cool feature
+    details: Lorem ipsum...
+  - icon: ⚡️
+    title: Simple and minimal, always
+    details: Lorem ipsum...
+  - icon: 🖖
+    title: Another cool feature
+    details: Lorem ipsum...
 ---
-
