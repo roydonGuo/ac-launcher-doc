@@ -6,8 +6,8 @@ hero:
   text: 彩虹🌈软糖
   tagline: 逆水行舟，不进则退
   image:
-    src: /cherry.png
-    alt: Cherry
+    src: /images/logo.png
+    alt: logo
   actions:
     - theme: brand
       text: come on
