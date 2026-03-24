@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: come on
-      link: /articles/组件库环境搭建
+      link: /articles/operate-doc
     - theme: alt
       text: View on Github
       link: https://github.com/roydonGuo
