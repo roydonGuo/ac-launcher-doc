@@ -65,7 +65,6 @@
 提供 e 看牙、轻松牙医、牙医管家平台快速访问。
 
 
-
 ## 无线投屏
 点击进入投屏模式，可使用手机和电脑进行投屏。
 
@@ -74,13 +73,10 @@
 </video>
 
 
-
-
 ## 影音模式
 可进入爱奇艺、QQ 音乐、录像机。
 
 <img src="/images/operate-doc-assets/video.png" width="100%" title="" crop="0,0,1,1" id="u45eb4ccf" class="ne-image">
-
 
 
 ## 科普宣教
@@ -89,10 +85,8 @@
 <img src="/images/operate-doc-assets/know-videos.png" width="100%" title="" crop="0,0,1,1" id="u45eb4ccf" class="ne-image">
 
 
-
 # 3、设置
 设置页提供账号信息查询与更新，版本检测与更新，隐私政策和用户服务协议，退出登录。
 
 <img src="/images/operate-doc-assets/setting.png" width="100%" title="" crop="0,0,1,1" id="u45eb4ccf" class="ne-image">
-
 
