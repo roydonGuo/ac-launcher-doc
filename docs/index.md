@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: 口腔观察仪智慧版文档
-  text: 彩虹🌈软糖
+  text: 相关文档
   tagline: 逆水行舟，不进则退
   image:
     src: /images/logo.png
