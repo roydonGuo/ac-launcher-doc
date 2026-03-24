@@ -2,28 +2,34 @@
 layout: home
 
 hero:
-  name: 口腔观察仪智慧版文档
-  text: 相关文档
-  tagline: 逆水行舟，不进则退
+  name: AI口腔智慧屏
+  text: A6S-X
+  tagline: 让患者“看懂” | 让医生“轻松” | 让成交“快速”
   image:
     src: /images/logo.png
     alt: logo
   actions:
     - theme: brand
-      text: come on
+      text: 查看操作文档
       link: /articles/operate-doc
-    - theme: alt
-      text: View on Github
-      link: https://github.com/roydonGuo
+#    - theme: alt
+#      text: View on Github
+#      link: https://github.com/roydonGuo
 
 features:
-  - icon: 🛠️
-    title: Another cool feature
-    details: Lorem ipsum...
+  - icon: 🤖
+    title: AI智能检查-让病灶可视化
+    details: 高清口腔观察仪，一照即得口腔内全景影像。AI自动识别口腔疑似病灶，实时标注牙龈炎、龋齿、牙结石等潜在问题，生成可视化报告。患者通过直观的影像呈现，能够清晰认知自身口腔问题，有效消除疑虑，主动产生治疗意愿，从而提升诊疗转化率
   - icon: ⚡️
-    title: Simple and minimal, always
-    details: Lorem ipsum...
+    title: 3D视频洽谈--让治疗方案一目了然
+    details: 系统内置涵盖种植牙、矫正、根管治疗等常见口腔疾病的3D动画演示库，以动态形式生动展示疾病成因、发展过程及治疗步骤。医生可在洽谈时一键调取相关视频，让患者直观理解治疗方案的必要性与操作流程，大幅降低沟通成本，建立专业信任，推动治疗决策快速达成。
   - icon: 🖖
-    title: Another cool feature
-    details: Lorem ipsum...
+    title: 门诊软件直连-数据无缝流转
+    details: 支持门诊管理系统无缝对接，实现检查影像、Al评估结论及推荐方案的自动同步，数据互联互通，优化门诊运营效率，减轻前台与医护人员的录入负担。
+  - icon: 🍬
+    title: 科普宣教库-预防性教育先行
+    details: 内置专业口腔科普视频资源库，涵盖术后护理、正确刷牙方法、牙线使用技巧、饮食注意事项等多元化内容。
+  - icon: 📺
+    title: 影音娱乐系统舒缓候诊焦虑
+    details: 集成主流影音娱乐平台，支持电影、综艺、新闻等多样化内容播放，为候诊患者营造轻松愉悦的等待环境。通过缓解患者焦虑情绪，提升门诊服务体验的细节感知，增强患者对门诊的好感度与黏性，助力培养长期忠诚客户。
 ---
