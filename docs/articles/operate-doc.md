@@ -62,7 +62,6 @@
 <img src="https://cdn.nlark.com/yuque/0/2026/png/33518587/1774254404845-db3aa78e-7380-4e29-a605-2ad90616074c.png" width="1920" title="" crop="0,0,1,1" id="u5dcd78e0" class="ne-image">
 
 
-
 ## 门诊应用
 <img src="https://cdn.nlark.com/yuque/0/2026/png/33518587/1774255023123-b763e23d-875a-41cf-aef4-f80e5670ee81.png" width="1920" title="" crop="0,0,1,1" id="u7475774f" class="ne-image">
 
@@ -73,6 +72,9 @@
 ## 无线投屏
 点击进入投屏模式，可使用手机和电脑进行投屏。
 
+<video width="100%" height="auto" controls>
+    <source src="/videos/letsview-operate.mp4" type="video/mp4">
+</video>
 
 
 
