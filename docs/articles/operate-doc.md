@@ -99,7 +99,7 @@
 点击进入投屏模式，可使用手机和电脑进行投屏。
 
 <video width="100%" height="auto" controls>
-    <source src="/videos/operate-doc-assets/letsview-operate.mp4" type="video/mp4">
+    <source src="/videos/operate-doc-assets/letsview-operate-low.mp4" type="video/mp4">
 </video>
 
 
