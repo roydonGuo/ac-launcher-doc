@@ -1,4 +1,3 @@
-# 1、登陆注册
 
 ## 登录
 
@@ -12,10 +11,19 @@
 
 单机模式功能列表：
 
-- 1、AI检查：新增客户、拍摄照片（照片存储在设备上）、查看照片。
+- 1、AI检查：新增客户、开始检查、拍摄照片（照片存储在设备上）、查看照片。
 - 2、门诊应用。
 - 3、无线投屏。
 - 4、影音模式。
+
+登录账号即可享受所有功能：
+
+- 1、AI检查：新增客户、开始检查、拍摄照片（**照片存储在云平台**）、查看照片、**生成AI报告**、**查看报告**。
+- 2、**接诊洽谈。**
+- 3、门诊应用。
+- 4、无线投屏。
+- 5、影音模式。
+- 6、**科普宣教。**
 
 ## 注册
 
@@ -23,7 +31,6 @@
 
 <img src="/images/operate-doc-assets/register.png" width="100%" title="" crop="0,0,1,1" id="uc1cbdd38" class="ne-image">
 
-# 2、首页
 
 ## AI 检查
 
@@ -121,9 +128,15 @@
 <img src="/images/operate-doc-assets/know-videos.png" width="100%" title="" crop="0,0,1,1" id="u45eb4ccf" class="ne-image">
 
 
-# 3、设置
+## 设置
+
+首页右上角设置图标点击进入设置页面。
 
 设置页提供账号信息查询与更新，版本检测与更新，隐私政策和用户服务协议，操作手册，退出登录。
 
 <img src="/images/operate-doc-assets/setting.png" width="100%" title="" crop="0,0,1,1" id="u45eb4ccf" class="ne-image">
+
+更新账号信息：
+
+<img src="/images/operate-doc-assets/edit-account.png" width="100%" title="" crop="0,0,1,1" id="u45eb4ccf" class="ne-image">
 
