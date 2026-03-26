@@ -1,29 +1,48 @@
 # 1、登陆注册
+
 ## 登录
+
 登陆账号为爱牙看看云平台（https://www.aiyakankan.com）账号，若已有爱牙看看云平台账号则使用云平台账号账号密码直接登陆即可。
 
 <img src="/images/operate-doc-assets/login.png" width="100%" title="" crop="0,0,1,1" id="u4992ef50" class="ne-image">
 
 同时，登录页提供注册和单机选项。
 
+当不登陆账号，使用单机模式，则客户数据仅存在于设备上，客户可使用牙镜检查和拍摄照片但是不能生成报告（如需要全部功能，请使用云平台账号注册并登陆）。
+
+单机模式功能列表：
+
+- 1、AI检查：新增客户、拍摄照片（照片存储在设备上）、查看照片。
+- 2、门诊应用。
+- 3、无线投屏。
+- 4、影音模式。
+
 ## 注册
+
 注册页注册步骤和爱牙看看云平台（https://www.aiyakankan.com）注册步骤一致，且账号互通。注册完成之后即可返回登陆。
 
 <img src="/images/operate-doc-assets/register.png" width="100%" title="" crop="0,0,1,1" id="uc1cbdd38" class="ne-image">
 
 # 2、首页
+
 ## AI 检查
+
 进入 AI 检查可查看客户列表和新增客户。若当前已登陆则客户数据和云平台互通，若未登录则客户数据仅存在于设备上，与云平台不互通。
 
 可在此操作检查、查看照片、查看报告。
 
 <img src="/images/operate-doc-assets/ai-check.png" width="100%" title="" crop="0,0,1,1" id="ua4798c88" class="ne-image">
 
+更新用户：
+
+当登录账号后，点击更新用户会把未登录时保存在本机上的用户数据同步到云平台。
+
 新增用户：
 
 <img src="/images/operate-doc-assets/add-customer.png" width="100%" title="" crop="0,0,1,1" id="uf69e2ab9" class="ne-image">
 
 ### 开始检查
+
 点击客户卡片的开始检查按钮进入检查页面，请提前连接 A6M 设备，确保可以出现设备镜头画面，设备拍照按钮为触摸拍照，右侧为拍摄照片列表，点击某照片进入 4 分格展示。
 
 <img src="/images/operate-doc-assets/begin-check.png" width="100%" title="" crop="0,0,1,1" id="uf69e2ab9" class="ne-image">
@@ -36,6 +55,7 @@
 <img src="/images/operate-doc-assets/pics.png" width="100%" title="" crop="0,0,1,1" id="u45eb4ccf" class="ne-image">
 
 ### 报告
+
 点击客户卡片的报告按钮，查看客户历史报告列表。
 
 <img src="/images/operate-doc-assets/reports.png" width="100%" title="" crop="0,0,1,1" id="u45eb4ccf" class="ne-image">
@@ -50,6 +70,7 @@
 
 
 ## 接诊洽谈
+
 进入接诊洽谈页可看到所有分类：
 
 <img src="/images/operate-doc-assets/rc.png" width="100%" title="" crop="0,0,1,1" id="u45eb4ccf" class="ne-image">
@@ -60,12 +81,14 @@
 
 
 ## 门诊应用
-<img src="/images/operate-doc-assets/link.png" width="100%" title="" crop="0,0,1,1" id="u45eb4ccf" class="ne-image">
 
 提供 e 看牙、轻松牙医、牙医管家平台快速访问。
 
+<img src="/images/operate-doc-assets/link.png" width="100%" title="" crop="0,0,1,1" id="u45eb4ccf" class="ne-image">
+
 
 ## 无线投屏
+
 点击进入投屏模式，可使用手机和电脑进行投屏。
 
 <video width="100%" height="auto" controls>
@@ -74,19 +97,33 @@
 
 
 ## 影音模式
+
 可进入爱奇艺、QQ 音乐、录像机。
 
 <img src="/images/operate-doc-assets/video.png" width="100%" title="" crop="0,0,1,1" id="u45eb4ccf" class="ne-image">
 
+### 录像机
+
+录像机提供设备前摄录像功能。
+
+<img src="/images/operate-doc-assets/luxiangji.png" width="100%" title="" crop="0,0,1,1" id="u45eb4ccf" class="ne-image">
+
+影像可在录像带中查看。
+
+可再设置中自定义视频存储位置。
+
+<img src="/images/operate-doc-assets/storage-position.png" width="100%" title="" crop="0,0,1,1" id="u45eb4ccf" class="ne-image">
 
 ## 科普宣教
-查看科普宣教视频
+
+查看科普宣教视频。
 
 <img src="/images/operate-doc-assets/know-videos.png" width="100%" title="" crop="0,0,1,1" id="u45eb4ccf" class="ne-image">
 
 
 # 3、设置
-设置页提供账号信息查询与更新，版本检测与更新，隐私政策和用户服务协议，退出登录。
+
+设置页提供账号信息查询与更新，版本检测与更新，隐私政策和用户服务协议，操作手册，退出登录。
 
 <img src="/images/operate-doc-assets/setting.png" width="100%" title="" crop="0,0,1,1" id="u45eb4ccf" class="ne-image">
 
