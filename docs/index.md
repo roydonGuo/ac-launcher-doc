@@ -2,12 +2,12 @@
 layout: home
 
 hero:
-  name: AI口腔智慧屏
-  text: A6S-X
+  name: 口腔观察仪（智慧屏）
+#  text: A6S-X
   tagline: 让患者“看懂” | 让医生“轻松” | 让成交“快速”
-  image:
-    src: /images/logo.png
-    alt: logo
+#  image:
+#    src: /images/logo.png
+#    alt: logo
   actions:
     - theme: brand
       text: 查看操作文档
