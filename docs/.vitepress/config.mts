@@ -24,8 +24,8 @@ export default defineConfig({
     //   },
     // ],
 
-    socialLinks: [
-      { icon: "github", link: "https://github.com/roydonGuo" },
-    ],
+    // socialLinks: [
+    //   { icon: "github", link: "https://github.com/roydonGuo" },
+    // ],
   },
 });
